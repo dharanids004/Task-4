@@ -1,4 +1,4 @@
- Flask REST API – User Management
+🧠 Flask REST API – User Management
 This project is a simple REST API built using Flask to manage user data. It allows basic CRUD (Create, Read, Update, Delete) operations on users stored in an in-memory dictionary.
 
 🚀 Features
